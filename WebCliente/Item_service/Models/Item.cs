@@ -13,6 +13,6 @@
         public string UsuarioAsignado { get; set; } = string.Empty;
         public DateTime FechaEntrega { get; set; } = DateTime.Now.AddDays(7);
         public bool Completado { get; set; } = false;
-        public Prioridad Relevancia { get; set; } = Prioridad.Baja; // ahora con enum
+        public Prioridad Relevancia { get; set; } = Prioridad.Baja; 
     }
 }
