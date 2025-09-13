@@ -1,0 +1,62 @@
+﻿@page
+@model ROBERTO_TOPANTA.Pages.ItemsModel
+@{
+    ViewData["Title"] = "Gestión de Items";
+}
+
+<h2>Items Pendientes</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Titulo</th>
+            <th>Fecha de Entrega</th>
+            <th>Relevancia</th>
+            <th>Asignado a</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.ItemsPendientes)
+        {
+            <tr>
+                <td>@item.Titulo</td>
+                <td>@item.FechaEntrega.ToShortDateString()</td>
+                <td>@item.Relevancia</td>
+                <td>@item.UsuarioAsignado</td>
+                <td>
+                    <form method="post" asp-page-handler="Completar">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="btn btn-success btn-sm">Completar</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<hr />
+
+<h2>Crear nuevo Item</h2>
+
+<form method="post" asp-page-handler="Crear">
+    <div class="form-group">
+        <label for="Titulo">Titulo</label>
+        <input asp-for="NuevoItem.Titulo" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="FechaEntrega">Fecha de Entrega</label>
+        <input asp-for="NuevoItem.FechaEntrega" type="date" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="Relevancia">Relevancia</label>
+        <select asp-for="NuevoItem.Relevancia" class="form-control">
+            <option value="Baja">Baja</option>
+            <option value="Alta">Alta</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Asignar Ítem</button>
+</form>

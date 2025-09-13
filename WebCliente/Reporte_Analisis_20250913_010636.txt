@@ -1,0 +1,1777 @@
+﻿================================================================================
+REPORTE DE ANÁLISIS DE DIRECTORIO
+================================================================================
+
+Directorio analizado: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente
+Fecha de generación: 13/09/2025 01:06:34
+Total de carpetas: 59
+Total de archivos: 231
+Tamaño total: 23,29 MB
+
+Extensiones incluidas en este reporte:
+  .cs (19 archivos, 15,01 KB)
+  .cshtml (18 archivos, 12,68 KB)
+  .csproj (3 archivos, 1,14 KB)
+  .json (9 archivos, 2,89 KB)
+  .sln (1 archivos, 2,09 KB)
+  .user (1 archivos, 380 B)
+
+================================================================================
+ESTRUCTURA DE DIRECTORIOS Y ARCHIVOS
+================================================================================
+
+📁 WebCliente/
+  📄 WebCliente.sln (2,09 KB)
+  📄 WebCliente.slnLaunch.user (380 B)
+  📁 Item_service/
+    📄 appsettings.Development.json (154 B)
+    📄 appsettings.json (227 B)
+    📄 Item_service.csproj (512 B)
+    📄 Program.cs (599 B)
+    📁 Controllers/
+      📄 ItemsController.cs (1,34 KB)
+    📁 Models/
+      📄 Item.cs (536 B)
+    📁 Pages/
+      📄 _ViewImports.cshtml (109 B)
+      📄 _ViewStart.cshtml (35 B)
+      📄 Error.cshtml (882 B)
+      📄 Error.cshtml.cs (739 B)
+      📄 Index.cshtml (266 B)
+      📄 Index.cshtml.cs (390 B)
+      📄 Privacy.cshtml (172 B)
+      📄 Privacy.cshtml.cs (401 B)
+      📁 Shared/
+        📄 _Layout.cshtml (2,24 KB)
+        📄 _ValidationScriptsPartial.cshtml (176 B)
+    📁 Properties/
+      📄 launchSettings.json (319 B)
+    📁 Repositories/
+      📄 ItemRepository.cs (745 B)
+    📁 Services/
+      📄 DistributionService.cs (2,63 KB)
+    📁 wwwroot/
+      📁 css/
+      📁 js/
+      📁 lib/
+        📁 bootstrap/
+          📁 dist/
+            📁 css/
+            📁 js/
+        📁 jquery/
+          📁 dist/
+        📁 jquery-validation/
+          📁 dist/
+        📁 jquery-validation-unobtrusive/
+  📁 ROBERTO_TOPANTA/
+    📄 appsettings.Development.json (154 B)
+    📄 appsettings.json (273 B)
+    📄 Program.cs (406 B)
+    📄 ROBERTO_TOPANTA.csproj (222 B)
+    📁 Models/
+      📄 Item.cs (443 B)
+      📄 Usuario.cs (294 B)
+    📁 Pages/
+      📄 Items.cshtml (1,81 KB)
+      📄 Items.cshtml.cs (1,82 KB)
+      📄 Usuarios.cshtml (716 B)
+      📄 Usuarios.cshtml.cs (1,01 KB)
+      📁 Shared/
+        📄 _Layout.cshtml (2,29 KB)
+        📄 _ValidationScriptsPartial.cshtml (176 B)
+    📁 Properties/
+      📄 launchSettings.json (740 B)
+    📁 wwwroot/
+      📁 css/
+      📁 js/
+      📁 lib/
+        📁 bootstrap/
+          📁 dist/
+            📁 css/
+            📁 js/
+        📁 jquery/
+          📁 dist/
+        📁 jquery-validation/
+          📁 dist/
+        📁 jquery-validation-unobtrusive/
+  📁 Usuario_service/
+    📄 appsettings.Development.json (154 B)
+    📄 appsettings.json (618 B)
+    📄 Program.cs (512 B)
+    📄 Usuario_service.csproj (436 B)
+    📁 Controllers/
+      📄 UsuariosController.cs (1,47 KB)
+    📁 Models/
+      📄 Usuario.cs (304 B)
+    📁 Pages/
+      📄 _ViewImports.cshtml (115 B)
+      📄 _ViewStart.cshtml (35 B)
+      📄 Error.cshtml (882 B)
+      📄 Error.cshtml.cs (742 B)
+      📄 Index.cshtml (266 B)
+      📄 Index.cshtml.cs (393 B)
+      📄 Privacy.cshtml (172 B)
+      📄 Privacy.cshtml.cs (404 B)
+      📁 Shared/
+        📄 _Layout.cshtml (2,25 KB)
+        📄 _ValidationScriptsPartial.cshtml (176 B)
+    📁 Properties/
+      📄 launchSettings.json (322 B)
+    📁 wwwroot/
+      📁 css/
+      📁 js/
+      📁 lib/
+        📁 bootstrap/
+          📁 dist/
+            📁 css/
+            📁 js/
+        📁 jquery/
+          📁 dist/
+        📁 jquery-validation/
+          📁 dist/
+        📁 jquery-validation-unobtrusive/
+
+================================================================================
+CONTENIDO DE ARCHIVOS
+================================================================================
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente
+--------------------------------------------------------------------------------
+
+Archivo: WebCliente.sln
+Tamaño: 2,09 KB
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\WebCliente.sln
+Contenido:
+
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROBERTO_TOPANTA", "ROBERTO_TOPANTA\ROBERTO_TOPANTA.csproj", "{0A92B392-D24A-41F8-910D-9877E41323AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Item_service", "Item_service\Item_service.csproj", "{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usuario_service", "Usuario_service\Usuario_service.csproj", "{8F7A9929-F1FD-4141-B40F-FDB728D530FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A92B392-D24A-41F8-910D-9877E41323AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A92B392-D24A-41F8-910D-9877E41323AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A92B392-D24A-41F8-910D-9877E41323AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A92B392-D24A-41F8-910D-9877E41323AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F7A9929-F1FD-4141-B40F-FDB728D530FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7A9929-F1FD-4141-B40F-FDB728D530FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7A9929-F1FD-4141-B40F-FDB728D530FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7A9929-F1FD-4141-B40F-FDB728D530FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00CE2C03-7F1E-475F-B98C-59727DBCF597}
+	EndGlobalSection
+EndGlobal
+
+
+------------------------------------------------------------
+
+Archivo: WebCliente.slnLaunch.user
+Tamaño: 380 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\WebCliente.slnLaunch.user
+Contenido:
+
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Item_service\\Item_service.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Usuario_service\\Usuario_service.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service
+--------------------------------------------------------------------------------
+
+Archivo: appsettings.Development.json
+Tamaño: 154 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\appsettings.Development.json
+Contenido:
+
+{
+  "DetailedErrors": true,
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  }
+}
+
+
+------------------------------------------------------------
+
+Archivo: appsettings.json
+Tamaño: 227 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\appsettings.json
+Contenido:
+
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+
+  "ServiceUrls": {
+    "UsuarioService": "https://localhost:7057"
+  }
+}
+
+
+------------------------------------------------------------
+
+Archivo: Item_service.csproj
+Tamaño: 512 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Item_service.csproj
+Contenido:
+
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Models\" />
+    <Folder Include="Services\" />
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.4" />
+  </ItemGroup>
+
+</Project>
+
+
+------------------------------------------------------------
+
+Archivo: Program.cs
+Tamaño: 599 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Program.cs
+Contenido:
+
+using Item_service.Services;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+builder.Services.AddHttpClient<ServicioDistribucion>();
+
+var app = builder.Build();
+
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+app.UseHttpsRedirection();
+app.UseAuthorization();
+app.MapControllers();
+
+app.Run();
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Controllers
+--------------------------------------------------------------------------------
+
+Archivo: ItemsController.cs
+Tamaño: 1,34 KB
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Controllers\ItemsController.cs
+Contenido:
+
+using Microsoft.AspNetCore.Mvc;
+using Item_service.Models;
+using Item_service.Repositories;
+using Item_service.Services;
+
+namespace Item_service.Controllers
+{
+    [ApiController]
+    [Route("api/[controller]")]
+    public class ItemsController : ControllerBase
+    {
+        private readonly ServicioDistribucion _servicio;
+
+        public ItemsController(ServicioDistribucion servicio)
+        {
+            _servicio = servicio;
+        }
+
+        // Crear y asignar un nuevo ítem
+        [HttpPost("asignar")]
+        public async Task<IActionResult> Asignar(Item item)
+        {
+            var usuario = await _servicio.AsignarItem(item);
+            if (usuario == null) return BadRequest("No hay usuarios disponibles");
+
+            return Ok(new { Usuario = usuario.NombreUsuario, Item = item.Titulo });
+        }
+
+        // Obtener todos los ítems pendientes
+        [HttpGet("pendientes")]
+        public IActionResult ObtenerPendientes()
+        {
+            return Ok(ItemRepositorio.ObtenerPendientes());
+        }
+
+        // Marcar un ítem como completado
+        [HttpPost("completar/{id}")]
+        public IActionResult Completar(int id)
+        {
+            ItemRepositorio.MarcarCompletado(id);
+            return Ok(new { Mensaje = $"El ítem {id} fue marcado como completado." });
+        }
+    }
+}
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Models
+--------------------------------------------------------------------------------
+
+Archivo: Item.cs
+Tamaño: 536 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Models\Item.cs
+Contenido:
+
+namespace Item_service.Models
+{
+    public enum Prioridad
+    {
+        Baja,
+        Alta
+    }
+
+    public class Item
+    {
+        public int Id { get; set; }
+        public string Titulo { get; set; } = string.Empty;
+        public string UsuarioAsignado { get; set; } = string.Empty;
+        public DateTime FechaEntrega { get; set; } = DateTime.Now.AddDays(7);
+        public bool Completado { get; set; } = false;
+        public Prioridad Relevancia { get; set; } = Prioridad.Baja; // ahora con enum
+    }
+}
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Pages
+--------------------------------------------------------------------------------
+
+Archivo: _ViewImports.cshtml
+Tamaño: 109 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Pages\_ViewImports.cshtml
+Contenido:
+
+@using Item_service
+@namespace Item_service.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+------------------------------------------------------------
+
+Archivo: _ViewStart.cshtml
+Tamaño: 35 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Pages\_ViewStart.cshtml
+Contenido:
+
+@{
+    Layout = "_Layout";
+}
+
+
+------------------------------------------------------------
+
+Archivo: Error.cshtml
+Tamaño: 882 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Pages\Error.cshtml
+Contenido:
+
+@page
+@model ErrorModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1 class="text-danger">Error.</h1>
+<h2 class="text-danger">An error occurred while processing your request.</h2>
+
+@if (Model.ShowRequestId)
+{
+    <p>
+        <strong>Request ID:</strong> <code>@Model.RequestId</code>
+    </p>
+}
+
+<h3>Development Mode</h3>
+<p>
+    Swapping to the <strong>Development</strong> environment displays detailed information about the error that occurred.
+</p>
+<p>
+    <strong>The Development environment shouldn't be enabled for deployed applications.</strong>
+    It can result in displaying sensitive information from exceptions to end users.
+    For local debugging, enable the <strong>Development</strong> environment by setting the <strong>ASPNETCORE_ENVIRONMENT</strong> environment variable to <strong>Development</strong>
+    and restarting the app.
+</p>
+
+
+------------------------------------------------------------
+
+Archivo: Error.cshtml.cs
+Tamaño: 739 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Pages\Error.cshtml.cs
+Contenido:
+
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Diagnostics;
+
+namespace Item_service.Pages
+{
+    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+    [IgnoreAntiforgeryToken]
+    public class ErrorModel : PageModel
+    {
+        public string? RequestId { get; set; }
+
+        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+
+        private readonly ILogger<ErrorModel> _logger;
+
+        public ErrorModel(ILogger<ErrorModel> logger)
+        {
+            _logger = logger;
+        }
+
+        public void OnGet()
+        {
+            RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier;
+        }
+    }
+
+}
+
+
+------------------------------------------------------------
+
+Archivo: Index.cshtml
+Tamaño: 266 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Pages\Index.cshtml
+Contenido:
+
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+------------------------------------------------------------
+
+Archivo: Index.cshtml.cs
+Tamaño: 390 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Pages\Index.cshtml.cs
+Contenido:
+
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+
+namespace Item_service.Pages
+{
+    public class IndexModel : PageModel
+    {
+        private readonly ILogger<IndexModel> _logger;
+
+        public IndexModel(ILogger<IndexModel> logger)
+        {
+            _logger = logger;
+        }
+
+        public void OnGet()
+        {
+
+        }
+    }
+}
+
+
+------------------------------------------------------------
+
+Archivo: Privacy.cshtml
+Tamaño: 172 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Pages\Privacy.cshtml
+Contenido:
+
+@page
+@model PrivacyModel
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Use this page to detail your site's privacy policy.</p>
+
+
+------------------------------------------------------------
+
+Archivo: Privacy.cshtml.cs
+Tamaño: 401 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Pages\Privacy.cshtml.cs
+Contenido:
+
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+
+namespace Item_service.Pages
+{
+    public class PrivacyModel : PageModel
+    {
+        private readonly ILogger<PrivacyModel> _logger;
+
+        public PrivacyModel(ILogger<PrivacyModel> logger)
+        {
+            _logger = logger;
+        }
+
+        public void OnGet()
+        {
+        }
+    }
+
+}
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Pages\Shared
+--------------------------------------------------------------------------------
+
+Archivo: _Layout.cshtml
+Tamaño: 2,24 KB
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Pages\Shared\_Layout.cshtml
+Contenido:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Item_service</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Item_service.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-page="/Index">Item_service</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - Item_service - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+------------------------------------------------------------
+
+Archivo: _ValidationScriptsPartial.cshtml
+Tamaño: 176 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Pages\Shared\_ValidationScriptsPartial.cshtml
+Contenido:
+
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Properties
+--------------------------------------------------------------------------------
+
+Archivo: launchSettings.json
+Tamaño: 319 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Properties\launchSettings.json
+Contenido:
+
+{
+  "profiles": {
+    "Item_service": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:7058;http://localhost:5001",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Repositories
+--------------------------------------------------------------------------------
+
+Archivo: ItemRepository.cs
+Tamaño: 745 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Repositories\ItemRepository.cs
+Contenido:
+
+using Item_service.Models;
+
+namespace Item_service.Repositories
+{
+    public static class ItemRepositorio
+    {
+        private static List<Item> _items = new();
+
+        public static void Agregar(Item item) => _items.Add(item);
+
+        public static List<Item> ObtenerTodos() =>
+            _items.OrderBy(i => i.FechaEntrega).ToList();
+
+        public static List<Item> ObtenerPendientes() =>
+            _items.Where(i => !i.Completado)
+                  .OrderBy(i => i.FechaEntrega)
+                  .ToList();
+
+        public static void MarcarCompletado(int id)
+        {
+            var item = _items.FirstOrDefault(i => i.Id == id);
+            if (item != null) item.Completado = true;
+        }
+    }
+}
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Services
+--------------------------------------------------------------------------------
+
+Archivo: DistributionService.cs
+Tamaño: 2,63 KB
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Item_service\Services\DistributionService.cs
+Contenido:
+
+using System.Net.Http.Json;
+using Item_service.Models;
+using Item_service.Repositories;
+
+namespace Item_service.Services
+{
+    public class ServicioDistribucion
+    {
+        private readonly HttpClient _httpClient;
+
+        public ServicioDistribucion(HttpClient httpClient, IConfiguration config)
+        {
+            _httpClient = httpClient;
+
+            var url = config["ServiceUrls:UsuarioService"];
+            if (string.IsNullOrWhiteSpace(url))
+            {
+                throw new ArgumentNullException("ServiceUrls:UsuarioService",
+                    "La URL del servicio de usuarios no está configurada en appsettings.json");
+            }
+
+            _httpClient.BaseAddress = new Uri(url);
+        }
+
+        public async Task<UsuarioAsignado?> AsignarItem(Item item)
+        {
+            var usuarios = await _httpClient.GetFromJsonAsync<List<UsuarioAsignado>>("api/usuarios");
+            if (usuarios == null || usuarios.Count == 0) return null;
+
+            // Condición por fecha (entregas en menos de 3 días)
+            if ((item.FechaEntrega - DateTime.Now).TotalDays < 3)
+            {
+                var user = usuarios.OrderBy(u => u.ItemsAsignados).FirstOrDefault();
+                if (user != null)
+                {
+                    item.UsuarioAsignado = user.NombreUsuario ?? "SinNombre";
+                    ItemRepositorio.Agregar(item);
+                    return user;
+                }
+            }
+
+            // Condición por prioridad Alta
+            if (item.Relevancia == Prioridad.Alta)
+            {
+                var user = usuarios
+                    .Where(u => u.ItemsAltaPrioridad < 3)
+                    .OrderBy(u => u.ItemsAsignados)
+                    .FirstOrDefault();
+
+                if (user != null)
+                {
+                    item.UsuarioAsignado = user.NombreUsuario ?? "SinNombre";
+                    ItemRepositorio.Agregar(item);
+                    return user;
+                }
+            }
+
+            // Fallback: asignar al que menos items tiene
+            var fallback = usuarios.OrderBy(u => u.ItemsAsignados).FirstOrDefault();
+            if (fallback != null)
+            {
+                item.UsuarioAsignado = fallback.NombreUsuario ?? "SinNombre";
+                ItemRepositorio.Agregar(item);
+                return fallback;
+            }
+
+            return null;
+        }
+    }
+
+    public class UsuarioAsignado
+    {
+        public string NombreUsuario { get; set; } = string.Empty;
+        public int ItemsAsignados { get; set; }
+        public int ItemsAltaPrioridad { get; set; }
+    }
+}
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA
+--------------------------------------------------------------------------------
+
+Archivo: appsettings.Development.json
+Tamaño: 154 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA\appsettings.Development.json
+Contenido:
+
+{
+  "DetailedErrors": true,
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  }
+}
+
+
+------------------------------------------------------------
+
+Archivo: appsettings.json
+Tamaño: 273 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA\appsettings.json
+Contenido:
+
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+
+  "ServiceUrls": {
+    "ItemService": "https://localhost:7058",
+    "UsuarioService": "https://localhost:7057"
+  }
+}
+
+
+------------------------------------------------------------
+
+Archivo: Program.cs
+Tamaño: 406 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA\Program.cs
+Contenido:
+
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddRazorPages();
+builder.Services.AddHttpClient();
+
+var app = builder.Build();
+
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Error");
+}
+
+app.UseStaticFiles();
+app.UseRouting();
+app.UseAuthorization();
+
+
+app.MapGet("/", () => Results.Redirect("/Usuarios"));
+
+app.MapRazorPages();
+app.Run();
+
+
+
+------------------------------------------------------------
+
+Archivo: ROBERTO_TOPANTA.csproj
+Tamaño: 222 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA\ROBERTO_TOPANTA.csproj
+Contenido:
+
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA\Models
+--------------------------------------------------------------------------------
+
+Archivo: Item.cs
+Tamaño: 443 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA\Models\Item.cs
+Contenido:
+
+namespace ROBERTO_TOPANTA.Models
+{
+    public enum Prioridad { Baja, Alta }
+
+    public class Item
+    {
+        public int Id { get; set; }
+        public string Titulo { get; set; } = string.Empty;
+        public DateTime FechaEntrega { get; set; }
+        public Prioridad Relevancia { get; set; }
+        public string UsuarioAsignado { get; set; } = string.Empty;
+        public bool EstaCompletado { get; set; }
+    }
+}
+
+
+------------------------------------------------------------
+
+Archivo: Usuario.cs
+Tamaño: 294 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA\Models\Usuario.cs
+Contenido:
+
+namespace ROBERTO_TOPANTA.Models
+{
+    public class Usuario
+    {
+        public int Id { get; set; }
+        public string NombreUsuario { get; set; } = string.Empty;
+        public int TotalItemsAsignados { get; set; }
+        public int ItemsAltaPrioridad { get; set; }
+    }
+}
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA\Pages
+--------------------------------------------------------------------------------
+
+Archivo: Items.cshtml
+Tamaño: 1,81 KB
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA\Pages\Items.cshtml
+Contenido:
+
+@page
+@model ROBERTO_TOPANTA.Pages.ItemsModel
+@{
+    ViewData["Title"] = "Gestión de Items";
+}
+
+<h2>Items Pendientes</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Titulo</th>
+            <th>Fecha de Entrega</th>
+            <th>Relevancia</th>
+            <th>Asignado a</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.ItemsPendientes)
+        {
+            <tr>
+                <td>@item.Titulo</td>
+                <td>@item.FechaEntrega.ToShortDateString()</td>
+                <td>@item.Relevancia</td>
+                <td>@item.UsuarioAsignado</td>
+                <td>
+                    <form method="post" asp-page-handler="Completar">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="btn btn-success btn-sm">Completar</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<hr />
+
+<h2>Crear nuevo Item</h2>
+
+<form method="post" asp-page-handler="Crear">
+    <div class="form-group">
+        <label for="Titulo">Titulo</label>
+        <input asp-for="NuevoItem.Titulo" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="FechaEntrega">Fecha de Entrega</label>
+        <input asp-for="NuevoItem.FechaEntrega" type="date" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="Relevancia">Relevancia</label>
+        <select asp-for="NuevoItem.Relevancia" class="form-control">
+            <option value="Baja">Baja</option>
+            <option value="Alta">Alta</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Asignar Ítem</button>
+</form>
+
+
+------------------------------------------------------------
+
+Archivo: Items.cshtml.cs
+Tamaño: 1,82 KB
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA\Pages\Items.cshtml.cs
+Contenido:
+
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using ROBERTO_TOPANTA.Models;
+using System.Net.Http.Json;
+
+namespace ROBERTO_TOPANTA.Pages
+{
+    public class ItemsModel : PageModel
+    {
+        private readonly IHttpClientFactory _clientFactory;
+
+        public ItemsModel(IHttpClientFactory clientFactory)
+        {
+            _clientFactory = clientFactory;
+        }
+
+        public List<Item> ItemsPendientes { get; set; } = new();
+
+        [BindProperty]
+        public Item NuevoItem { get; set; } = new();
+
+        // GET: obtener ítems pendientes
+        public async Task OnGet()
+        {
+            var client = _clientFactory.CreateClient();
+            client.BaseAddress = new Uri("https://localhost:7058"); // Item_service
+
+            var result = await client.GetFromJsonAsync<List<Item>>("/api/items/pendientes");
+            if (result != null)
+                ItemsPendientes = result;
+        }
+
+        // POST: crear un ítem nuevo y asignarlo automáticamente
+        public async Task<IActionResult> OnPostCrearAsync()
+        {
+            if (!ModelState.IsValid)
+                return Page();
+
+            var client = _clientFactory.CreateClient();
+            client.BaseAddress = new Uri("https://localhost:7058");
+
+            await client.PostAsJsonAsync("/api/items/asignar", NuevoItem);
+
+            return RedirectToPage("/Items");
+        }
+
+        // POST: marcar un ítem como completado
+        public async Task<IActionResult> OnPostCompletarAsync(int id)
+        {
+            var client = _clientFactory.CreateClient();
+            client.BaseAddress = new Uri("https://localhost:7058");
+
+            await client.PostAsync($"/api/items/completar/{id}", null);
+
+            return RedirectToPage("/Items");
+        }
+    }
+}
+
+
+------------------------------------------------------------
+
+Archivo: Usuarios.cshtml
+Tamaño: 716 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA\Pages\Usuarios.cshtml
+Contenido:
+
+@page
+@model ROBERTO_TOPANTA.Pages.UsuariosModel
+@{
+    ViewData["Title"] = "Usuarios";
+}
+
+<h2>Lista de Usuarios</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre de Usuario</th>
+            <th>Items Asignados</th>
+            <th>Items Alta Prioridad</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var usuario in Model.ListaUsuarios)
+        {
+            <tr>
+                <td>@usuario.Id</td>
+                <td>@usuario.NombreUsuario</td>
+                <td>@usuario.TotalItemsAsignados</td>
+                <td>@usuario.ItemsAltaPrioridad</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+------------------------------------------------------------
+
+Archivo: Usuarios.cshtml.cs
+Tamaño: 1,01 KB
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA\Pages\Usuarios.cshtml.cs
+Contenido:
+
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using ROBERTO_TOPANTA.Models;
+using System.Net.Http.Json;
+
+namespace ROBERTO_TOPANTA.Pages
+{
+    public class UsuariosModel : PageModel
+    {
+        private readonly IHttpClientFactory _clientFactory;
+        private readonly IConfiguration _config;
+
+        public UsuariosModel(IHttpClientFactory clientFactory, IConfiguration config)
+        {
+            _clientFactory = clientFactory;
+            _config = config;
+        }
+
+        public List<Usuario> ListaUsuarios { get; set; } = new();
+
+        public async Task OnGet()
+        {
+            var client = _clientFactory.CreateClient();
+
+            // 🔹 Obtiene la URL desde appsettings.json
+            var baseUrl = _config["ServiceUrls:UsuarioService"];
+            client.BaseAddress = new Uri(baseUrl);
+
+            var result = await client.GetFromJsonAsync<List<Usuario>>("api/usuarios");
+            if (result != null)
+                ListaUsuarios = result;
+        }
+    }
+}
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA\Pages\Shared
+--------------------------------------------------------------------------------
+
+Archivo: _Layout.cshtml
+Tamaño: 2,29 KB
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA\Pages\Shared\_Layout.cshtml
+Contenido:
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ROBERTO_TOPANTA</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ROBERTO_TOPANTA.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand text-white" asp-area="" asp-page="/Usuarios">ROBERTO_TOPANTA</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                        data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-page="/Usuarios">Usuarios</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-page="/Items">Ítems</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted mt-4">
+        <div class="container text-center">
+            &copy; @DateTime.Now.Year - ROBERTO_TOPANTA | Prueba Tecnica
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+
+------------------------------------------------------------
+
+Archivo: _ValidationScriptsPartial.cshtml
+Tamaño: 176 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA\Pages\Shared\_ValidationScriptsPartial.cshtml
+Contenido:
+
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA\Properties
+--------------------------------------------------------------------------------
+
+Archivo: launchSettings.json
+Tamaño: 740 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\ROBERTO_TOPANTA\Properties\launchSettings.json
+Contenido:
+
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:11280",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:5216",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service
+--------------------------------------------------------------------------------
+
+Archivo: appsettings.Development.json
+Tamaño: 154 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\appsettings.Development.json
+Contenido:
+
+{
+  "DetailedErrors": true,
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  }
+}
+
+
+------------------------------------------------------------
+
+Archivo: appsettings.json
+Tamaño: 618 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\appsettings.json
+Contenido:
+
+{
+  "profiles": {
+    "Usuario_service": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:7057;http://localhost:5057",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:44391;http://localhost:56745",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
+
+
+------------------------------------------------------------
+
+Archivo: Program.cs
+Tamaño: 512 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Program.cs
+Contenido:
+
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+var app = builder.Build();
+
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+app.UseHttpsRedirection();
+app.UseAuthorization();
+
+app.MapControllers();
+
+app.Run();
+
+
+------------------------------------------------------------
+
+Archivo: Usuario_service.csproj
+Tamaño: 436 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Usuario_service.csproj
+Contenido:
+
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.4" />
+  </ItemGroup>
+
+</Project>
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Controllers
+--------------------------------------------------------------------------------
+
+Archivo: UsuariosController.cs
+Tamaño: 1,47 KB
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Controllers\UsuariosController.cs
+Contenido:
+
+using Microsoft.AspNetCore.Mvc;
+using Usuario_service.Models;
+
+namespace Usuario_service.Controllers
+{
+    [ApiController]
+    [Route("api/[controller]")]
+    public class UsuariosController : ControllerBase
+    {
+        private static List<Usuario> _usuarios = new()
+        {
+            new Usuario { Id = 1, NombreUsuario = "Juan Diaz", TotalItemsAsignados = 3, ItemsAltaPrioridad = 1 },
+            new Usuario { Id = 2, NombreUsuario = "Maria Toques", TotalItemsAsignados = 5, ItemsAltaPrioridad = 2 },
+            new Usuario { Id = 3, NombreUsuario = "Pedro Estevez", TotalItemsAsignados = 2, ItemsAltaPrioridad = 0 }
+        };
+
+        private static int _ultimoUsuario = -1;
+
+        [HttpGet]
+        public IActionResult ObtenerUsuarios() => Ok(_usuarios);
+
+        [HttpGet("{nombreUsuario}")]
+        public IActionResult ObtenerUsuario(string nombreUsuario)
+        {
+            var usuario = _usuarios.FirstOrDefault(u => u.NombreUsuario == nombreUsuario);
+            if (usuario == null) return NotFound();
+            return Ok(usuario);
+        }
+
+        
+        [HttpGet("asignar")]
+        public IActionResult AsignarUsuario()
+        {
+            if (!_usuarios.Any()) return NotFound("No hay usuarios disponibles");
+
+            _ultimoUsuario = (_ultimoUsuario + 1) % _usuarios.Count;
+            var usuario = _usuarios[_ultimoUsuario];
+
+            return Ok(new { NombreUsuario = usuario.NombreUsuario });
+        }
+    }
+}
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Models
+--------------------------------------------------------------------------------
+
+Archivo: Usuario.cs
+Tamaño: 304 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Models\Usuario.cs
+Contenido:
+
+namespace Usuario_service.Models
+{
+    public class Usuario
+    {
+        public int Id { get; set; }
+        public string NombreUsuario { get; set; } = string.Empty;
+        public int TotalItemsAsignados { get; set; } = 0;
+        public int ItemsAltaPrioridad { get; set; } = 0;
+    }
+}
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Pages
+--------------------------------------------------------------------------------
+
+Archivo: _ViewImports.cshtml
+Tamaño: 115 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Pages\_ViewImports.cshtml
+Contenido:
+
+@using Usuario_service
+@namespace Usuario_service.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+------------------------------------------------------------
+
+Archivo: _ViewStart.cshtml
+Tamaño: 35 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Pages\_ViewStart.cshtml
+Contenido:
+
+@{
+    Layout = "_Layout";
+}
+
+
+------------------------------------------------------------
+
+Archivo: Error.cshtml
+Tamaño: 882 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Pages\Error.cshtml
+Contenido:
+
+@page
+@model ErrorModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1 class="text-danger">Error.</h1>
+<h2 class="text-danger">An error occurred while processing your request.</h2>
+
+@if (Model.ShowRequestId)
+{
+    <p>
+        <strong>Request ID:</strong> <code>@Model.RequestId</code>
+    </p>
+}
+
+<h3>Development Mode</h3>
+<p>
+    Swapping to the <strong>Development</strong> environment displays detailed information about the error that occurred.
+</p>
+<p>
+    <strong>The Development environment shouldn't be enabled for deployed applications.</strong>
+    It can result in displaying sensitive information from exceptions to end users.
+    For local debugging, enable the <strong>Development</strong> environment by setting the <strong>ASPNETCORE_ENVIRONMENT</strong> environment variable to <strong>Development</strong>
+    and restarting the app.
+</p>
+
+
+------------------------------------------------------------
+
+Archivo: Error.cshtml.cs
+Tamaño: 742 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Pages\Error.cshtml.cs
+Contenido:
+
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Diagnostics;
+
+namespace Usuario_service.Pages
+{
+    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+    [IgnoreAntiforgeryToken]
+    public class ErrorModel : PageModel
+    {
+        public string? RequestId { get; set; }
+
+        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+
+        private readonly ILogger<ErrorModel> _logger;
+
+        public ErrorModel(ILogger<ErrorModel> logger)
+        {
+            _logger = logger;
+        }
+
+        public void OnGet()
+        {
+            RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier;
+        }
+    }
+
+}
+
+
+------------------------------------------------------------
+
+Archivo: Index.cshtml
+Tamaño: 266 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Pages\Index.cshtml
+Contenido:
+
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+------------------------------------------------------------
+
+Archivo: Index.cshtml.cs
+Tamaño: 393 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Pages\Index.cshtml.cs
+Contenido:
+
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+
+namespace Usuario_service.Pages
+{
+    public class IndexModel : PageModel
+    {
+        private readonly ILogger<IndexModel> _logger;
+
+        public IndexModel(ILogger<IndexModel> logger)
+        {
+            _logger = logger;
+        }
+
+        public void OnGet()
+        {
+
+        }
+    }
+}
+
+
+------------------------------------------------------------
+
+Archivo: Privacy.cshtml
+Tamaño: 172 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Pages\Privacy.cshtml
+Contenido:
+
+@page
+@model PrivacyModel
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Use this page to detail your site's privacy policy.</p>
+
+
+------------------------------------------------------------
+
+Archivo: Privacy.cshtml.cs
+Tamaño: 404 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Pages\Privacy.cshtml.cs
+Contenido:
+
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+
+namespace Usuario_service.Pages
+{
+    public class PrivacyModel : PageModel
+    {
+        private readonly ILogger<PrivacyModel> _logger;
+
+        public PrivacyModel(ILogger<PrivacyModel> logger)
+        {
+            _logger = logger;
+        }
+
+        public void OnGet()
+        {
+        }
+    }
+
+}
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Pages\Shared
+--------------------------------------------------------------------------------
+
+Archivo: _Layout.cshtml
+Tamaño: 2,25 KB
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Pages\Shared\_Layout.cshtml
+Contenido:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Usuario_service</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Usuario_service.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-page="/Index">Usuario_service</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - Usuario_service - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+------------------------------------------------------------
+
+Archivo: _ValidationScriptsPartial.cshtml
+Tamaño: 176 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Pages\Shared\_ValidationScriptsPartial.cshtml
+Contenido:
+
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
+------------------------------------------------------------
+
+Carpeta: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Properties
+--------------------------------------------------------------------------------
+
+Archivo: launchSettings.json
+Tamaño: 322 B
+Ruta completa: C:\Users\rober\source\repos\ROBERTO_TOAPANTA\WebCliente\Usuario_service\Properties\launchSettings.json
+Contenido:
+
+{
+  "profiles": {
+    "Usuario_service": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:7057;http://localhost:5057",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
+
+
+------------------------------------------------------------
+

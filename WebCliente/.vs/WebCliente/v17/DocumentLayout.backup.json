@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A9929-F1FD-4141-B40F-FDB728D530FB}|Usuario_service\\Usuario_service.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\usuario_service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F7A9929-F1FD-4141-B40F-FDB728D530FB}|Usuario_service\\Usuario_service.csproj|solutionrelative:usuario_service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A9929-F1FD-4141-B40F-FDB728D530FB}|Usuario_service\\Usuario_service.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\usuario_service\\usuario_service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F7A9929-F1FD-4141-B40F-FDB728D530FB}|Usuario_service\\Usuario_service.csproj|solutionrelative:usuario_service\\usuario_service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\roberto_topanta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|solutionrelative:roberto_topanta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}|Item_service\\Item_service.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\item_service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}|Item_service\\Item_service.csproj|solutionrelative:item_service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}|Item_service\\Item_service.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\item_service\\services\\distributionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}|Item_service\\Item_service.csproj|solutionrelative:item_service\\services\\distributionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}|Item_service\\Item_service.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\item_service\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}|Item_service\\Item_service.csproj|solutionrelative:item_service\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}|Item_service\\Item_service.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\item_service\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}|Item_service\\Item_service.csproj|solutionrelative:item_service\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}|Item_service\\Item_service.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\item_service\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}|Item_service\\Item_service.csproj|solutionrelative:item_service\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\roberto_topanta\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|solutionrelative:roberto_topanta\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}|Item_service\\Item_service.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\item_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}|Item_service\\Item_service.csproj|solutionrelative:item_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\roberto_topanta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|solutionrelative:roberto_topanta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\roberto_topanta\\pages\\items.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|solutionrelative:roberto_topanta\\pages\\items.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\roberto_topanta\\pages\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|solutionrelative:roberto_topanta\\pages\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A9929-F1FD-4141-B40F-FDB728D530FB}|Usuario_service\\Usuario_service.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\usuario_service\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F7A9929-F1FD-4141-B40F-FDB728D530FB}|Usuario_service\\Usuario_service.csproj|solutionrelative:usuario_service\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\roberto_topanta\\pages\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|solutionrelative:roberto_topanta\\pages\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\roberto_topanta\\pages\\usuarios.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|solutionrelative:roberto_topanta\\pages\\usuarios.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A9929-F1FD-4141-B40F-FDB728D530FB}|Usuario_service\\Usuario_service.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\usuario_service\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F7A9929-F1FD-4141-B40F-FDB728D530FB}|Usuario_service\\Usuario_service.csproj|solutionrelative:usuario_service\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}|Item_service\\Item_service.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\item_service\\item_service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}|Item_service\\Item_service.csproj|solutionrelative:item_service\\item_service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\roberto_topanta\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|solutionrelative:roberto_topanta\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}|Item_service\\Item_service.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\item_service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89ED03D6-91B4-421E-BA80-3DCFD72CE5B5}|Item_service\\Item_service.csproj|solutionrelative:item_service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A9929-F1FD-4141-B40F-FDB728D530FB}|Usuario_service\\Usuario_service.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\usuario_service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F7A9929-F1FD-4141-B40F-FDB728D530FB}|Usuario_service\\Usuario_service.csproj|solutionrelative:usuario_service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7A9929-F1FD-4141-B40F-FDB728D530FB}|Usuario_service\\Usuario_service.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\usuario_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F7A9929-F1FD-4141-B40F-FDB728D530FB}|Usuario_service\\Usuario_service.csproj|solutionrelative:usuario_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\roberto_topanta\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|solutionrelative:roberto_topanta\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|c:\\users\\rober\\source\\repos\\roberto_toapanta\\webcliente\\roberto_topanta\\roberto_topanta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A92B392-D24A-41F8-910D-9877E41323AF}|ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj|solutionrelative:roberto_topanta\\roberto_topanta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Item_service\\appsettings.json",
+              "RelativeDocumentMoniker": "Item_service\\appsettings.json",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Item_service\\appsettings.json",
+              "RelativeToolTip": "Item_service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T05:47:52.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\appsettings.json",
+              "RelativeDocumentMoniker": "ROBERTO_TOPANTA\\appsettings.json",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\appsettings.json",
+              "RelativeToolTip": "ROBERTO_TOPANTA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T03:32:12.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Item_service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Item_service\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Item_service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Item_service\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T03:28:20.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Usuario_service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Usuario_service\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Usuario_service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Usuario_service\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T03:25:31.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Usuario_service\\appsettings.json",
+              "RelativeDocumentMoniker": "Usuario_service\\appsettings.json",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Usuario_service\\appsettings.json",
+              "RelativeToolTip": "Usuario_service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T03:22:44.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DistributionService.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Item_service\\Services\\DistributionService.cs",
+              "RelativeDocumentMoniker": "Item_service\\Services\\DistributionService.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Item_service\\Services\\DistributionService.cs",
+              "RelativeToolTip": "Item_service\\Services\\DistributionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T03:07:48.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Item_service\\Repositories\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "Item_service\\Repositories\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Item_service\\Repositories\\ItemRepository.cs",
+              "RelativeToolTip": "Item_service\\Repositories\\ItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T02:57:56.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Item_service\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Item_service\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Item_service\\Models\\Item.cs",
+              "RelativeToolTip": "Item_service\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T02:57:49.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Usuario_service\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Usuario_service\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Usuario_service\\Models\\Usuario.cs",
+              "RelativeToolTip": "Usuario_service\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T02:51:23.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Usuario_service\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Usuario_service\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Usuario_service\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Usuario_service\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T02:50:26.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Item_service\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Item_service\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Item_service\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Item_service\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T02:49:51.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Usuario_service\\Program.cs",
+              "RelativeDocumentMoniker": "Usuario_service\\Program.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Usuario_service\\Program.cs",
+              "RelativeToolTip": "Usuario_service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T02:46:04.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Item_service\\Program.cs",
+              "RelativeDocumentMoniker": "Item_service\\Program.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Item_service\\Program.cs",
+              "RelativeToolTip": "Item_service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T02:41:40.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario_service.csproj",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Usuario_service\\Usuario_service.csproj",
+              "RelativeDocumentMoniker": "Usuario_service\\Usuario_service.csproj",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Usuario_service\\Usuario_service.csproj",
+              "RelativeToolTip": "Usuario_service\\Usuario_service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-13T02:37:23.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Item_service.csproj",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Item_service\\Item_service.csproj",
+              "RelativeDocumentMoniker": "Item_service\\Item_service.csproj",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\Item_service\\Item_service.csproj",
+              "RelativeToolTip": "Item_service\\Item_service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-13T02:35:35.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ROBERTO_TOPANTA\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ROBERTO_TOPANTA\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-13T02:19:33.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Usuarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\Pages\\Usuarios.cshtml",
+              "RelativeDocumentMoniker": "ROBERTO_TOPANTA\\Pages\\Usuarios.cshtml",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\Pages\\Usuarios.cshtml",
+              "RelativeToolTip": "ROBERTO_TOPANTA\\Pages\\Usuarios.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-13T01:27:42.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usuarios.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\Pages\\Usuarios.cshtml.cs",
+              "RelativeDocumentMoniker": "ROBERTO_TOPANTA\\Pages\\Usuarios.cshtml.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\Pages\\Usuarios.cshtml.cs",
+              "RelativeToolTip": "ROBERTO_TOPANTA\\Pages\\Usuarios.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T01:23:30.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Items.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\Pages\\Items.cshtml.cs",
+              "RelativeDocumentMoniker": "ROBERTO_TOPANTA\\Pages\\Items.cshtml.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\Pages\\Items.cshtml.cs",
+              "RelativeToolTip": "ROBERTO_TOPANTA\\Pages\\Items.cshtml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T01:19:44.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Items.cshtml",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\Pages\\Items.cshtml",
+              "RelativeDocumentMoniker": "ROBERTO_TOPANTA\\Pages\\Items.cshtml",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\Pages\\Items.cshtml",
+              "RelativeToolTip": "ROBERTO_TOPANTA\\Pages\\Items.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-13T01:18:59.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ROBERTO_TOPANTA\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\Models\\Usuario.cs",
+              "RelativeToolTip": "ROBERTO_TOPANTA\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T01:14:09.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "ROBERTO_TOPANTA\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\Models\\Item.cs",
+              "RelativeToolTip": "ROBERTO_TOPANTA\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T01:12:50.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ROBERTO_TOPANTA.csproj",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj",
+              "RelativeDocumentMoniker": "ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj",
+              "RelativeToolTip": "ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-13T01:12:10.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\Program.cs",
+              "RelativeDocumentMoniker": "ROBERTO_TOPANTA\\Program.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\ROBERTO_TOAPANTA\\WebCliente\\ROBERTO_TOPANTA\\Program.cs",
+              "RelativeToolTip": "ROBERTO_TOPANTA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T00:22:27.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

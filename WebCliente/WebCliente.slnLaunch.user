@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "ROBERTO_TOPANTA\\ROBERTO_TOPANTA.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Item_service\\Item_service.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Usuario_service\\Usuario_service.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
